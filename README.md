@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Estevao Angeluz 🐨 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeluzj27/)	
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevao-a-11268910b/)	
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/est%C3%AAv%C3%A3o-a-11268910b/)	
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angeluz20&show_icons=true&theme=dracula)
 
