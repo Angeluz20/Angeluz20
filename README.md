@@ -1,4 +1,5 @@
-### Olá, Eu sou o Estevao Angeluz 🐨 
+### Olá, Eu sou o Estevao Angeluz 🐨,
+Estudante de Ciência da Computação e apaixonado por programação. 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeluzj27/)	
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/est%C3%AAv%C3%A3o-a-11268910b/)	
